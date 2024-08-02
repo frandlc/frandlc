@@ -2,6 +2,10 @@
 
 ## I'm a Argentinian Developer and a Student!!
 
+## This is a secondary github account for personal projects.
+My main github account is: 
+- https://github.com/agudlc
+
 - 🔭 Im just finishing my second year of experience in Full Stack web development
 - 🌱 I’m currently learning Golang and being more advanced in the FrontEnd enviroment
 - 👯 I am growing and ever ready to be part of great projects
