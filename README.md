@@ -1,10 +1,12 @@
 ### Hi there, I'm Francisco 👋 
 
-## I'm a Argentinian Developer and a Student!!
-
 ## This is a secondary github account for personal projects.
 My main github account is: 
 - https://github.com/agudlc
+
+  
+## I'm a Argentinian Developer and a Student!!
+
 
 - 🔭 Im just finishing my second year of experience in Full Stack web development
 - 🌱 I’m currently learning Golang and being more advanced in the FrontEnd enviroment
